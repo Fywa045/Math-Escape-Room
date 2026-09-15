@@ -1,0 +1,6 @@
+{
+  "name": "Math Escape Room",
+  "description": "Game edukasi matematika dasar 2D top-down escape room dengan teka-teki logika, pengumpulan hint, dan 5 level bertema unik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
